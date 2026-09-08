@@ -6,3 +6,8 @@
   background-position: center;
   background-color: black;
 }
+.bg-newsletter{
+  background: url(./assets/bg-shadow.png);
+  background-position: center;
+  background-color: white;
+}

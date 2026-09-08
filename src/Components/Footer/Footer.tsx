@@ -1,8 +1,11 @@
 import footerImg from "../../assets/logo-footer.png"
+import NewsLetter from "../NewsLetter/NewsLetter";
 
 const Footer = () => {
   return (
-    <div className="bg-[#131313] text-white mt-50 pt-50">
+
+    <div className="bg-[#131313] text-white mt-50 pt-50 relative">
+        <NewsLetter/>
       <div className="footer-image flex justify-center items-center">
         <img src={footerImg} alt="" />
       </div>
