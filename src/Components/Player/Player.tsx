@@ -1,6 +1,6 @@
-import React from "react";
+
 import { FaFlag, FaUserAlt } from "react-icons/fa";
-import type TPlayers from "../../type";
+
 
 const Player = ({ player }) => {
   console.log(player);
