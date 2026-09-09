@@ -16,7 +16,7 @@ const NewsLetter = () => {
   <div className="flex flex-col sm:flex-row w-full max-w-xl gap-3">
     
     <input
-      className="flex-1 h-14 px-5 rounded-xl border-2 border-black/20 bg-white/80 backdrop-blur-sm outline-none focus:border-black focus:ring-2 focus:ring-black/10 transition-all placeholder:text-gray-500"
+      className="flex-1 h-14 px-5 rounded-xl border-2 border-black/20 bg-white/80 backdrop-blur-sm outline-none focus:border-black focus:ring-2 focus:ring-black/10 transition-all placeholder:text-gray-500 text-black"
       type="email"
       placeholder="Enter your email address"
     />
